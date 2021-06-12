@@ -1,0 +1,3 @@
+<template>
+    <Full-card />
+</template>
